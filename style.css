@@ -1,0 +1,56 @@
+nav{
+background-color:  rgba(146, 89, 89, 1);
+}
+body{
+    background-color: rgba(61, 61, 61, 1);
+}
+
+.banner{
+    padding-top: 3rem;
+    width: fit-content;
+}
+.top-imgs{
+display:inline-block;
+
+    float: left;
+   width: 33.33vw;
+   height: 20rem;
+}
+
+.btn{
+font-size: 1.5rem;
+padding-left: 2rem;
+padding-right: 2rem;
+}
+span{
+    margin: 0;
+    padding: 0;
+}
+#s{
+    margin: 0;
+    padding: 0;
+}
+#lg-txt{
+    font-weight: bold;
+    color:white;
+    font-size: 3rem;
+}
+
+
+  @media only screen and (max-width: 700px) {
+    .top-imgs{
+        display: none;
+    }
+    #lg-txt{
+        font-size: 1rem;
+    }
+    .btn{
+        font-size: 1rem;
+    }
+    .fire{
+        display: block;
+        width: 100vw;
+    }
+  }
+
+
