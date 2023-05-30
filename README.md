@@ -4,6 +4,6 @@ Designed a simple Landing Page for a fictitious brick working company in Figma a
 ## Designs
 
   # Desktop
-  ![](./Designs/Desktop.PNG)
+  ![](./Designs/Desktop.png)
   # Mobile
-  ![](./Designs/Mobile.PNG)
+  ![](./Designs/Mobile.png)
