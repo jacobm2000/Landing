@@ -21,6 +21,7 @@ display:inline-block;
 font-size: 1.5rem;
 padding-left: 2rem;
 padding-right: 2rem;
+font-weight: bold;
 }
 span{
     margin: 0;
@@ -50,8 +51,8 @@ span{
 .tests{
     margin-top: 4rem;
     margin-bottom: 13rem;
-    margin-left: 0;
-    margin-right: 2rem;
+    margin-left: 0rem;
+    margin-right: 6rem;
 }
 .test{
     display: flex;
@@ -60,9 +61,10 @@ span{
     padding-bottom: 4rem;
     justify-content: center;
     color: black;
+    text-align: center;
     font-size: 1.5rem;
     background-color:rgba(221, 221, 221, 0.26);
-    margin-left: 2rem;
+    margin-left: 6rem;
     
 }
 
@@ -75,7 +77,15 @@ span{
     }
     .tests{
         margin-top: 0;
+        margin-bottom: 5rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
     }
+    .test{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+   
     .top-imgs{
         height:10rem
     }
@@ -83,7 +93,7 @@ span{
         font-size: 1rem;
     }
     .btn{
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     
